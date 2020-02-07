@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81db0dec-c642-47b1-80f0-b0e880165f36" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Komplex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Komplexatal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Komplexatal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Komplexa tal.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Komplexatal.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Komplexatal.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,16 +50,24 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Komplex">
+    <configuration name="Komplex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Komplex" />
+      <module name="Komplexatal" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Komplexatal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Komplexatal" />
-      <module name="Komplexa tal" />
+      <module name="Komplexatal" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Komplex" />
         <item itemvalue="Application.Komplexatal" />
       </list>
     </recent_temporary>
@@ -72,7 +83,10 @@
       <option name="presentableId" value="Default" />
       <updated>1580464516066</updated>
       <workItem from="1580464517890" duration="1254000" />
-      <workItem from="1580980494045" duration="2593000" />
+      <workItem from="1580980494045" duration="3266000" />
+      <workItem from="1580983929459" duration="186000" />
+      <workItem from="1581067730350" duration="151000" />
+      <workItem from="1581068170426" duration="2007000" />
     </task>
     <task id="LOCAL−00001" summary="2020-01-31">
       <created>1580465775806</created>
@@ -80,7 +94,13 @@
       <option name="presentableId" value="LOCAL−00001" />
       <updated>1580465775806</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL−00002" summary="2020-02-06 &#10;Slutet av lektionen">
+      <created>1580983134098</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1580983134098</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
